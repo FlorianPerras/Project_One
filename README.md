@@ -19,7 +19,7 @@ For this project, I was interestested in using AirBnB Seattle data from 2016 to 
 2. Which variable affect the price of available listings?
 3. Is it possible to predict the price of new listings based on the selected variable in 2.?
 
-The full set of files related to this course are owned by AirBnB, so they are not publicly available here.  However, you can see pieces of the analysis here: #Insert link to blog post
+The full set of files related to this course are owned by AirBnB, so they are not publicly available here.  However, you can see pieces of the analysis here: https://medium.com/@flo92-perras/read-this-if-you-plan-to-go-to-seattle-3690041fc469
 
 
 ## File Descriptions <a name="files"></a>
@@ -30,7 +30,7 @@ Additionally there is a folder containing the raw data files from AirBnB.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](#Link to Blogpost).
+The main findings of the code can be found at the post available [here](https://medium.com/@flo92-perras/read-this-if-you-plan-to-go-to-seattle-3690041fc469).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
